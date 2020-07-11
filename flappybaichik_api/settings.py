@@ -25,7 +25,9 @@ SECRET_KEY = 't42w00lh%$0b)8v*1u_(nv)&%-rc2pah0q18f6x-&bte)*u3(^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+  'flappybaichikapi.akmatoff.repl.co'
+]
 
 
 # Application definition
